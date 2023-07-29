@@ -38,7 +38,7 @@ If you use this code in your research, we would appreciate a citation to the ori
       pages={50--53},
       year={2017}
       }
-   @thesis{viel2016module,
+   @mastersthesis{viel2016module,
 	   address={Itajaí, SC, Brasil},
 	   author="Felipe Viel",
 	   pages="118",
