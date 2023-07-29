@@ -38,7 +38,7 @@ If you use this code in your research, we would appreciate a citation to the ori
       pages={50--53},
       year={2017}
       }
-   @MASTERSTHESIS {viel2016module,
+	@MASTERSTHESIS {viel2016module,
       author   = "Felipe Viel",
       title    = "Desenvolvimento de módulo de reconfiguração remota de FPGA para ambiente espacial",
       school   = "University of Vale do Itajaí",
