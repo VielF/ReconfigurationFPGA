@@ -12,8 +12,8 @@ Fig: Block diagram of the proposed prototype system with modules.
 
 ## Repository Organization
 	- Ground station: source code to simulate the gound station that send the bitstream.
-	- Communication subsystem - source code to emulate the communication subsytem with CAN protocol.
-   - Payload subsystem - source code of FPGA reconfiguration subsystem with cryptography, CAN protocol warm standby spare fault tolerant technique.
+	- Communication subsystem: source code to emulate the communication subsytem with CAN protocol.
+   - Payload subsystem: source code of FPGA reconfiguration subsystem with cryptography, CAN protocol warm standby spare fault tolerant technique.
 
 ## Prerequisites
 
@@ -37,19 +37,18 @@ If you use this code in your research, we would appreciate a citation to the ori
       booktitle={IBERCHIP workshop},
       pages={50--53},
       year={2017}
-   }
-
+      }
    @monography{viel2016module,
-	  address={Itajaí, SC, Brasil},
-	  author="Felipe Viel",
-	  pages="118",
-	  school="Universidade do Vale do Itajaí",
-	  publisher="Bacharelado em Engenharia de Computação",
-	  title="Desenvolvimento de módulo de reconfiguração remota de FPGA para ambiente espacial",
-	  type={},
-     url="https://siaibib01.univali.br/pdf/Felipe%20Viel%202017.pdf"
-	  year="2016"
-	} 
+	   address={Itajaí, SC, Brasil},
+	   author="Felipe Viel",
+	   pages="118",
+	   school="Universidade do Vale do Itajaí",
+	   publisher="Bacharelado em Engenharia de Computação",
+	   title="Desenvolvimento de módulo de reconfiguração remota de FPGA para ambiente espacial",
+	   type={},
+      url="https://siaibib01.univali.br/pdf/Felipe%20Viel%202017.pdf"
+	   year="2016"
+	   } 
 
 ## Acknowledgement
 
