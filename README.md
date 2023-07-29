@@ -47,7 +47,7 @@ If you use this code in your research, we would appreciate a citation to the ori
       address  = "Itajaí, SC, Brazil",
       month    = "dec",
       crossref = "https://siaibib01.univali.br/pdf/Felipe%20Viel%202017.pdf"
-   } 
+      } 
 
 ## Acknowledgement
 
