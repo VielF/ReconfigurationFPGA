@@ -38,16 +38,16 @@ If you use this code in your research, we would appreciate a citation to the ori
       pages={50--53},
       year={2017}
       }
-   @mastersthesis{viel2016module,
-	   address={Itajaí, SC, Brasil},
-	   author="Felipe Viel",
-	   pages="118",
-	   school="Universidade do Vale do Itajaí",
-	   publisher="Bacharelado em Engenharia de Computação",
-	   title="Desenvolvimento de módulo de reconfiguração remota de FPGA para ambiente espacial",
-	   type={Bachelor's Thesis},
-	   year="2016"
-	   } 
+   @MASTERSTHESIS {viel2016module,
+      author   = "Felipe Viel",
+      title    = "Desenvolvimento de módulo de reconfiguração remota de FPGA para ambiente espacial",
+      school   = "University of Vale do Itajaí",
+      year     = "2016",
+      type     = "Bachelor's Thesis",
+      address  = "Itajaí, SC, Brazil",
+      month    = "dec",
+      crossref = "https://siaibib01.univali.br/pdf/Felipe%20Viel%202017.pdf"
+   } 
 
 ## Acknowledgement
 
