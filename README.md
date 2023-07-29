@@ -46,7 +46,6 @@ If you use this code in your research, we would appreciate a citation to the ori
 	   publisher="Bacharelado em Engenharia de Computação",
 	   title="Desenvolvimento de módulo de reconfiguração remota de FPGA para ambiente espacial",
 	   type={Bachelor's Thesis},
-      url="https://siaibib01.univali.br/pdf/Felipe%20Viel%202017.pdf"
 	   year="2016"
 	   } 
 
